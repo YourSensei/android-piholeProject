@@ -1,0 +1,20 @@
+# Fallback list. Use "Update blocklist" in the app to download a full list.
+0.0.0.0 doubleclick.net
+0.0.0.0 googlesyndication.com
+0.0.0.0 googleadservices.com
+0.0.0.0 adservice.google.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 ads.facebook.com
+0.0.0.0 an.facebook.com
+0.0.0.0 app-measurement.com
+0.0.0.0 adcolony.com
+0.0.0.0 unityads.unity3d.com
+0.0.0.0 applovin.com
+0.0.0.0 ironsrc.com
+0.0.0.0 vungle.com
+0.0.0.0 inmobi.com
+0.0.0.0 mopub.com
+0.0.0.0 admob.com
+0.0.0.0 adnxs.com
+0.0.0.0 taboola.com
+0.0.0.0 outbrain.com
